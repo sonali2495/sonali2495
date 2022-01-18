@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Sonali Gadge
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Java
+- 👀 I’m a Full stack Developer in making!
